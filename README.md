@@ -13,7 +13,8 @@ Dalam Laravel, Repository Pattern sering digunakan untuk:
 
 ## Documentation
 
-
+![Screenshot 2024-05-16 152030](https://github.com/melanierefman/repository-pattern-laravel/assets/87106838/09020f95-7c15-4bb3-882d-87d39b92673e)
+![Screenshot 2024-05-16 153829](https://github.com/melanierefman/repository-pattern-laravel/assets/87106838/f273213e-a179-4876-a74f-a0f198e49d3a)
 
 ## Source
 
